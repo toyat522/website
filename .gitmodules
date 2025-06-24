@@ -1,3 +1,6 @@
 [submodule "output"]
 	path = output
 	url = git@github.com:toyat522/toyat522.github.io.git
+[submodule "themes/Peli-Kiera"]
+	path = themes/Peli-Kiera
+	url = git@github.com:aleylara/Peli-Kiera.git
